@@ -303,14 +303,32 @@
                 "labels": [],
                 "members": {
                   "__doc__": {
-                    "kind": "alias",
+                    "docstring": {
+                      "endlineno": null,
+                      "lineno": null,
+                      "value": "str(object='') -> str\nstr(bytes_or_buffer[, encoding[, errors]]) -> str\n\nCreate a new string object from the given object. If encoding or\nerrors is specified, then the object must expose a data buffer\nthat will be decoded using the given encoding and error handler.\nOtherwise, returns the result of object.__str__() (if defined)\nor repr(object).\nencoding defaults to 'utf-8'.\nerrors defaults to 'strict'."
+                    },
+                    "kind": "attribute",
+                    "labels": [
+                      "class"
+                    ],
+                    "members": {},
                     "name": "__doc__",
-                    "target_path": "_my_submodule.Thing.__doc__"
+                    "value": "''"
                   },
                   "__module__": {
-                    "kind": "alias",
+                    "docstring": {
+                      "endlineno": null,
+                      "lineno": null,
+                      "value": "str(object='') -> str\nstr(bytes_or_buffer[, encoding[, errors]]) -> str\n\nCreate a new string object from the given object. If encoding or\nerrors is specified, then the object must expose a data buffer\nthat will be decoded using the given encoding and error handler.\nOtherwise, returns the result of object.__str__() (if defined)\nor repr(object).\nencoding defaults to 'utf-8'.\nerrors defaults to 'strict'."
+                    },
+                    "kind": "attribute",
+                    "labels": [
+                      "class"
+                    ],
+                    "members": {},
                     "name": "__module__",
-                    "target_path": "_my_submodule.Thing.__module__"
+                    "value": "'submodule_mkdocs_test._submodule_mkdocs_test._my_submodule'"
                   },
                   "__new__": {
                     "decorators": [],
@@ -342,27 +360,67 @@
                     "returns": null
                   },
                   "thing_method": {
-                    "kind": "alias",
+                    "decorators": [],
+                    "kind": "function",
+                    "labels": [
+                      "method descriptor"
+                    ],
+                    "members": {},
                     "name": "thing_method",
-                    "target_path": "_my_submodule.Thing.thing_method"
+                    "parameters": [
+                      {
+                        "annotation": null,
+                        "default": null,
+                        "kind": "positional-only",
+                        "name": "self"
+                      }
+                    ],
+                    "returns": null
                   }
                 },
                 "name": "Thing"
               },
               "__all__": {
-                "kind": "alias",
+                "docstring": {
+                  "endlineno": null,
+                  "lineno": null,
+                  "value": "Built-in mutable sequence.\n\nIf no argument is given, the constructor creates a new empty list.\nThe argument must be an iterable if specified."
+                },
+                "kind": "attribute",
+                "labels": [
+                  "module"
+                ],
+                "members": {},
                 "name": "__all__",
-                "target_path": "_my_submodule.__all__"
+                "value": "['Thing']"
               },
               "__module__": {
-                "kind": "alias",
+                "docstring": {
+                  "endlineno": null,
+                  "lineno": null,
+                  "value": "str(object='') -> str\nstr(bytes_or_buffer[, encoding[, errors]]) -> str\n\nCreate a new string object from the given object. If encoding or\nerrors is specified, then the object must expose a data buffer\nthat will be decoded using the given encoding and error handler.\nOtherwise, returns the result of object.__str__() (if defined)\nor repr(object).\nencoding defaults to 'utf-8'.\nerrors defaults to 'strict'."
+                },
+                "kind": "attribute",
+                "labels": [
+                  "module"
+                ],
+                "members": {},
                 "name": "__module__",
-                "target_path": "_my_submodule.__module__"
+                "value": "'submodule_mkdocs_test._submodule_mkdocs_test._my_submodule'"
               },
               "__name__": {
-                "kind": "alias",
+                "docstring": {
+                  "endlineno": null,
+                  "lineno": null,
+                  "value": "str(object='') -> str\nstr(bytes_or_buffer[, encoding[, errors]]) -> str\n\nCreate a new string object from the given object. If encoding or\nerrors is specified, then the object must expose a data buffer\nthat will be decoded using the given encoding and error handler.\nOtherwise, returns the result of object.__str__() (if defined)\nor repr(object).\nencoding defaults to 'utf-8'.\nerrors defaults to 'strict'."
+                },
+                "kind": "attribute",
+                "labels": [
+                  "module"
+                ],
+                "members": {},
                 "name": "__name__",
-                "target_path": "_my_submodule.__name__"
+                "value": "'submodule_mkdocs_test._submodule_mkdocs_test._my_submodule'"
               }
             },
             "name": "_my_submodule"
@@ -379,20 +437,6 @@
             "kind": "alias",
             "name": "Thing",
             "target_path": "submodule_mkdocs_test._submodule_mkdocs_test._my_submodule.Thing"
-          },
-          "__all__": {
-            "docstring": {
-              "endlineno": null,
-              "lineno": null,
-              "value": "Built-in mutable sequence.\n\nIf no argument is given, the constructor creates a new empty list.\nThe argument must be an iterable if specified."
-            },
-            "kind": "attribute",
-            "labels": [
-              "module"
-            ],
-            "members": {},
-            "name": "__all__",
-            "value": "['Thing']"
           },
           "__cached__": {
             "docstring": {

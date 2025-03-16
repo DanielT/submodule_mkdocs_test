@@ -49,6 +49,10 @@ fn _submodule_mkdocs_test(py: Python, m: &Bound<'_, PyModule>) -> PyResult<()> {
         "__module__",
         "submodule_mkdocs_test._submodule_mkdocs_test._my_submodule",
     )?;
+    my_submodule.setattr(
+        "__name__",
+        "submodule_mkdocs_test._submodule_mkdocs_test._my_submodule",
+    )?;
 
     Ok(())
 }
