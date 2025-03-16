@@ -1,0 +1,6 @@
+from typing import *
+
+@final
+class It:
+    def __init__(self) -> It: ...
+    def it_method(self) -> None: ...

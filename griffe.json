@@ -1,0 +1,478 @@
+{
+  "submodule_mkdocs_test": {
+    "docstring": {
+      "endlineno": null,
+      "lineno": null,
+      "value": "A Python module implemented in Rust."
+    },
+    "filepath": "C:\\Users\\daniel\\projects\\submodule_mkdocs_test\\python\\submodule_mkdocs_test\\__init__.py",
+    "kind": "module",
+    "labels": [],
+    "members": {
+      "It": {
+        "kind": "alias",
+        "name": "It",
+        "target_path": "submodule_mkdocs_test._submodule_mkdocs_test.It"
+      },
+      "__all__": {
+        "docstring": {
+          "endlineno": null,
+          "lineno": null,
+          "value": "Built-in mutable sequence.\n\nIf no argument is given, the constructor creates a new empty list.\nThe argument must be an iterable if specified."
+        },
+        "kind": "attribute",
+        "labels": [
+          "module"
+        ],
+        "members": {},
+        "name": "__all__",
+        "value": "['It', '_my_submodule']"
+      },
+      "__cached__": {
+        "docstring": {
+          "endlineno": null,
+          "lineno": null,
+          "value": "str(object='') -> str\nstr(bytes_or_buffer[, encoding[, errors]]) -> str\n\nCreate a new string object from the given object. If encoding or\nerrors is specified, then the object must expose a data buffer\nthat will be decoded using the given encoding and error handler.\nOtherwise, returns the result of object.__str__() (if defined)\nor repr(object).\nencoding defaults to 'utf-8'.\nerrors defaults to 'strict'."
+        },
+        "kind": "attribute",
+        "labels": [
+          "module"
+        ],
+        "members": {},
+        "name": "__cached__",
+        "value": "'C:\\\\Users\\\\daniel\\\\projects\\\\submodule_mkdocs_test\\\\python\\\\submodule_mkdocs_test\\\\__pycache__\\\\__init__.cpython-313.pyc'"
+      },
+      "__doc__": {
+        "docstring": {
+          "endlineno": null,
+          "lineno": null,
+          "value": "str(object='') -> str\nstr(bytes_or_buffer[, encoding[, errors]]) -> str\n\nCreate a new string object from the given object. If encoding or\nerrors is specified, then the object must expose a data buffer\nthat will be decoded using the given encoding and error handler.\nOtherwise, returns the result of object.__str__() (if defined)\nor repr(object).\nencoding defaults to 'utf-8'.\nerrors defaults to 'strict'."
+        },
+        "kind": "attribute",
+        "labels": [
+          "module"
+        ],
+        "members": {},
+        "name": "__doc__",
+        "value": "'A Python module implemented in Rust.'"
+      },
+      "__file__": {
+        "docstring": {
+          "endlineno": null,
+          "lineno": null,
+          "value": "str(object='') -> str\nstr(bytes_or_buffer[, encoding[, errors]]) -> str\n\nCreate a new string object from the given object. If encoding or\nerrors is specified, then the object must expose a data buffer\nthat will be decoded using the given encoding and error handler.\nOtherwise, returns the result of object.__str__() (if defined)\nor repr(object).\nencoding defaults to 'utf-8'.\nerrors defaults to 'strict'."
+        },
+        "kind": "attribute",
+        "labels": [
+          "module"
+        ],
+        "members": {},
+        "name": "__file__",
+        "value": "'C:\\\\Users\\\\daniel\\\\projects\\\\submodule_mkdocs_test\\\\python\\\\submodule_mkdocs_test\\\\__init__.py'"
+      },
+      "__name__": {
+        "docstring": {
+          "endlineno": null,
+          "lineno": null,
+          "value": "str(object='') -> str\nstr(bytes_or_buffer[, encoding[, errors]]) -> str\n\nCreate a new string object from the given object. If encoding or\nerrors is specified, then the object must expose a data buffer\nthat will be decoded using the given encoding and error handler.\nOtherwise, returns the result of object.__str__() (if defined)\nor repr(object).\nencoding defaults to 'utf-8'.\nerrors defaults to 'strict'."
+        },
+        "kind": "attribute",
+        "labels": [
+          "module"
+        ],
+        "members": {},
+        "name": "__name__",
+        "value": "'submodule_mkdocs_test'"
+      },
+      "__package__": {
+        "docstring": {
+          "endlineno": null,
+          "lineno": null,
+          "value": "str(object='') -> str\nstr(bytes_or_buffer[, encoding[, errors]]) -> str\n\nCreate a new string object from the given object. If encoding or\nerrors is specified, then the object must expose a data buffer\nthat will be decoded using the given encoding and error handler.\nOtherwise, returns the result of object.__str__() (if defined)\nor repr(object).\nencoding defaults to 'utf-8'.\nerrors defaults to 'strict'."
+        },
+        "kind": "attribute",
+        "labels": [
+          "module"
+        ],
+        "members": {},
+        "name": "__package__",
+        "value": "'submodule_mkdocs_test'"
+      },
+      "__path__": {
+        "docstring": {
+          "endlineno": null,
+          "lineno": null,
+          "value": "Built-in mutable sequence.\n\nIf no argument is given, the constructor creates a new empty list.\nThe argument must be an iterable if specified."
+        },
+        "kind": "attribute",
+        "labels": [
+          "module"
+        ],
+        "members": {},
+        "name": "__path__",
+        "value": "['C:\\\\Users\\\\daniel\\\\projects\\\\submodule_mkdocs_test\\\\python\\\\submodule_mkdocs_test']"
+      },
+      "_my_submodule": {
+        "kind": "alias",
+        "name": "_my_submodule",
+        "target_path": "submodule_mkdocs_test._submodule_mkdocs_test._my_submodule"
+      },
+      "_submodule_mkdocs_test": {
+        "docstring": {
+          "endlineno": null,
+          "lineno": null,
+          "value": "A Python module implemented in Rust."
+        },
+        "filepath": "C:\\Users\\daniel\\projects\\submodule_mkdocs_test\\python\\submodule_mkdocs_test\\_submodule_mkdocs_test.cp313-win_amd64.pyd",
+        "kind": "module",
+        "labels": [],
+        "members": {
+          "It": {
+            "bases": [],
+            "decorators": [],
+            "docstring": {
+              "endlineno": null,
+              "lineno": null,
+              "value": ""
+            },
+            "kind": "class",
+            "labels": [],
+            "members": {
+              "__doc__": {
+                "docstring": {
+                  "endlineno": null,
+                  "lineno": null,
+                  "value": "str(object='') -> str\nstr(bytes_or_buffer[, encoding[, errors]]) -> str\n\nCreate a new string object from the given object. If encoding or\nerrors is specified, then the object must expose a data buffer\nthat will be decoded using the given encoding and error handler.\nOtherwise, returns the result of object.__str__() (if defined)\nor repr(object).\nencoding defaults to 'utf-8'.\nerrors defaults to 'strict'."
+                },
+                "kind": "attribute",
+                "labels": [
+                  "class"
+                ],
+                "members": {},
+                "name": "__doc__",
+                "value": "''"
+              },
+              "__module__": {
+                "docstring": {
+                  "endlineno": null,
+                  "lineno": null,
+                  "value": "str(object='') -> str\nstr(bytes_or_buffer[, encoding[, errors]]) -> str\n\nCreate a new string object from the given object. If encoding or\nerrors is specified, then the object must expose a data buffer\nthat will be decoded using the given encoding and error handler.\nOtherwise, returns the result of object.__str__() (if defined)\nor repr(object).\nencoding defaults to 'utf-8'.\nerrors defaults to 'strict'."
+                },
+                "kind": "attribute",
+                "labels": [
+                  "class"
+                ],
+                "members": {},
+                "name": "__module__",
+                "value": "'submodule_mkdocs_test._submodule_mkdocs_test'"
+              },
+              "__new__": {
+                "decorators": [],
+                "docstring": {
+                  "endlineno": null,
+                  "lineno": null,
+                  "value": "Create and return a new object.  See help(type) for accurate signature."
+                },
+                "kind": "function",
+                "labels": [
+                  "builtin"
+                ],
+                "members": {},
+                "name": "__new__",
+                "parameters": [
+                  {
+                    "annotation": null,
+                    "default": null,
+                    "kind": "variadic positional",
+                    "name": "args"
+                  },
+                  {
+                    "annotation": null,
+                    "default": null,
+                    "kind": "variadic keyword",
+                    "name": "kwargs"
+                  }
+                ],
+                "returns": null
+              },
+              "it_method": {
+                "decorators": [],
+                "kind": "function",
+                "labels": [
+                  "method descriptor"
+                ],
+                "members": {},
+                "name": "it_method",
+                "parameters": [
+                  {
+                    "annotation": null,
+                    "default": null,
+                    "kind": "positional-only",
+                    "name": "self"
+                  }
+                ],
+                "returns": null
+              }
+            },
+            "name": "It"
+          },
+          "__all__": {
+            "docstring": {
+              "endlineno": null,
+              "lineno": null,
+              "value": "Built-in mutable sequence.\n\nIf no argument is given, the constructor creates a new empty list.\nThe argument must be an iterable if specified."
+            },
+            "kind": "attribute",
+            "labels": [
+              "module"
+            ],
+            "members": {},
+            "name": "__all__",
+            "value": "['It', '_my_submodule']"
+          },
+          "__doc__": {
+            "docstring": {
+              "endlineno": null,
+              "lineno": null,
+              "value": "str(object='') -> str\nstr(bytes_or_buffer[, encoding[, errors]]) -> str\n\nCreate a new string object from the given object. If encoding or\nerrors is specified, then the object must expose a data buffer\nthat will be decoded using the given encoding and error handler.\nOtherwise, returns the result of object.__str__() (if defined)\nor repr(object).\nencoding defaults to 'utf-8'.\nerrors defaults to 'strict'."
+            },
+            "kind": "attribute",
+            "labels": [
+              "module"
+            ],
+            "members": {},
+            "name": "__doc__",
+            "value": "'A Python module implemented in Rust.'"
+          },
+          "__file__": {
+            "docstring": {
+              "endlineno": null,
+              "lineno": null,
+              "value": "str(object='') -> str\nstr(bytes_or_buffer[, encoding[, errors]]) -> str\n\nCreate a new string object from the given object. If encoding or\nerrors is specified, then the object must expose a data buffer\nthat will be decoded using the given encoding and error handler.\nOtherwise, returns the result of object.__str__() (if defined)\nor repr(object).\nencoding defaults to 'utf-8'.\nerrors defaults to 'strict'."
+            },
+            "kind": "attribute",
+            "labels": [
+              "module"
+            ],
+            "members": {},
+            "name": "__file__",
+            "value": "'C:\\\\Users\\\\daniel\\\\projects\\\\submodule_mkdocs_test\\\\python\\\\submodule_mkdocs_test\\\\_submodule_mkdocs_test.cp313-win_amd64.pyd'"
+          },
+          "__name__": {
+            "docstring": {
+              "endlineno": null,
+              "lineno": null,
+              "value": "str(object='') -> str\nstr(bytes_or_buffer[, encoding[, errors]]) -> str\n\nCreate a new string object from the given object. If encoding or\nerrors is specified, then the object must expose a data buffer\nthat will be decoded using the given encoding and error handler.\nOtherwise, returns the result of object.__str__() (if defined)\nor repr(object).\nencoding defaults to 'utf-8'.\nerrors defaults to 'strict'."
+            },
+            "kind": "attribute",
+            "labels": [
+              "module"
+            ],
+            "members": {},
+            "name": "__name__",
+            "value": "'submodule_mkdocs_test._submodule_mkdocs_test'"
+          },
+          "__package__": {
+            "docstring": {
+              "endlineno": null,
+              "lineno": null,
+              "value": "str(object='') -> str\nstr(bytes_or_buffer[, encoding[, errors]]) -> str\n\nCreate a new string object from the given object. If encoding or\nerrors is specified, then the object must expose a data buffer\nthat will be decoded using the given encoding and error handler.\nOtherwise, returns the result of object.__str__() (if defined)\nor repr(object).\nencoding defaults to 'utf-8'.\nerrors defaults to 'strict'."
+            },
+            "kind": "attribute",
+            "labels": [
+              "module"
+            ],
+            "members": {},
+            "name": "__package__",
+            "value": "'submodule_mkdocs_test'"
+          },
+          "_my_submodule": {
+            "filepath": null,
+            "kind": "module",
+            "labels": [],
+            "members": {
+              "Thing": {
+                "bases": [],
+                "decorators": [],
+                "docstring": {
+                  "endlineno": null,
+                  "lineno": null,
+                  "value": ""
+                },
+                "kind": "class",
+                "labels": [],
+                "members": {
+                  "__doc__": {
+                    "kind": "alias",
+                    "name": "__doc__",
+                    "target_path": "_my_submodule.Thing.__doc__"
+                  },
+                  "__module__": {
+                    "kind": "alias",
+                    "name": "__module__",
+                    "target_path": "_my_submodule.Thing.__module__"
+                  },
+                  "__new__": {
+                    "decorators": [],
+                    "docstring": {
+                      "endlineno": null,
+                      "lineno": null,
+                      "value": "Create and return a new object.  See help(type) for accurate signature."
+                    },
+                    "kind": "function",
+                    "labels": [
+                      "builtin"
+                    ],
+                    "members": {},
+                    "name": "__new__",
+                    "parameters": [
+                      {
+                        "annotation": null,
+                        "default": null,
+                        "kind": "variadic positional",
+                        "name": "args"
+                      },
+                      {
+                        "annotation": null,
+                        "default": null,
+                        "kind": "variadic keyword",
+                        "name": "kwargs"
+                      }
+                    ],
+                    "returns": null
+                  },
+                  "thing_method": {
+                    "kind": "alias",
+                    "name": "thing_method",
+                    "target_path": "_my_submodule.Thing.thing_method"
+                  }
+                },
+                "name": "Thing"
+              },
+              "__all__": {
+                "kind": "alias",
+                "name": "__all__",
+                "target_path": "_my_submodule.__all__"
+              },
+              "__module__": {
+                "kind": "alias",
+                "name": "__module__",
+                "target_path": "_my_submodule.__module__"
+              },
+              "__name__": {
+                "kind": "alias",
+                "name": "__name__",
+                "target_path": "_my_submodule.__name__"
+              }
+            },
+            "name": "_my_submodule"
+          }
+        },
+        "name": "_submodule_mkdocs_test"
+      },
+      "my_submodule": {
+        "filepath": "C:\\Users\\daniel\\projects\\submodule_mkdocs_test\\python\\submodule_mkdocs_test\\my_submodule\\__init__.py",
+        "kind": "module",
+        "labels": [],
+        "members": {
+          "Thing": {
+            "kind": "alias",
+            "name": "Thing",
+            "target_path": "submodule_mkdocs_test._submodule_mkdocs_test._my_submodule.Thing"
+          },
+          "__all__": {
+            "docstring": {
+              "endlineno": null,
+              "lineno": null,
+              "value": "Built-in mutable sequence.\n\nIf no argument is given, the constructor creates a new empty list.\nThe argument must be an iterable if specified."
+            },
+            "kind": "attribute",
+            "labels": [
+              "module"
+            ],
+            "members": {},
+            "name": "__all__",
+            "value": "['Thing']"
+          },
+          "__cached__": {
+            "docstring": {
+              "endlineno": null,
+              "lineno": null,
+              "value": "str(object='') -> str\nstr(bytes_or_buffer[, encoding[, errors]]) -> str\n\nCreate a new string object from the given object. If encoding or\nerrors is specified, then the object must expose a data buffer\nthat will be decoded using the given encoding and error handler.\nOtherwise, returns the result of object.__str__() (if defined)\nor repr(object).\nencoding defaults to 'utf-8'.\nerrors defaults to 'strict'."
+            },
+            "kind": "attribute",
+            "labels": [
+              "module"
+            ],
+            "members": {},
+            "name": "__cached__",
+            "value": "'C:\\\\Users\\\\daniel\\\\projects\\\\submodule_mkdocs_test\\\\python\\\\submodule_mkdocs_test\\\\my_submodule\\\\__pycache__\\\\__init__.cpython-313.pyc'"
+          },
+          "__file__": {
+            "docstring": {
+              "endlineno": null,
+              "lineno": null,
+              "value": "str(object='') -> str\nstr(bytes_or_buffer[, encoding[, errors]]) -> str\n\nCreate a new string object from the given object. If encoding or\nerrors is specified, then the object must expose a data buffer\nthat will be decoded using the given encoding and error handler.\nOtherwise, returns the result of object.__str__() (if defined)\nor repr(object).\nencoding defaults to 'utf-8'.\nerrors defaults to 'strict'."
+            },
+            "kind": "attribute",
+            "labels": [
+              "module"
+            ],
+            "members": {},
+            "name": "__file__",
+            "value": "'C:\\\\Users\\\\daniel\\\\projects\\\\submodule_mkdocs_test\\\\python\\\\submodule_mkdocs_test\\\\my_submodule\\\\__init__.py'"
+          },
+          "__name__": {
+            "docstring": {
+              "endlineno": null,
+              "lineno": null,
+              "value": "str(object='') -> str\nstr(bytes_or_buffer[, encoding[, errors]]) -> str\n\nCreate a new string object from the given object. If encoding or\nerrors is specified, then the object must expose a data buffer\nthat will be decoded using the given encoding and error handler.\nOtherwise, returns the result of object.__str__() (if defined)\nor repr(object).\nencoding defaults to 'utf-8'.\nerrors defaults to 'strict'."
+            },
+            "kind": "attribute",
+            "labels": [
+              "module"
+            ],
+            "members": {},
+            "name": "__name__",
+            "value": "'submodule_mkdocs_test.my_submodule'"
+          },
+          "__package__": {
+            "docstring": {
+              "endlineno": null,
+              "lineno": null,
+              "value": "str(object='') -> str\nstr(bytes_or_buffer[, encoding[, errors]]) -> str\n\nCreate a new string object from the given object. If encoding or\nerrors is specified, then the object must expose a data buffer\nthat will be decoded using the given encoding and error handler.\nOtherwise, returns the result of object.__str__() (if defined)\nor repr(object).\nencoding defaults to 'utf-8'.\nerrors defaults to 'strict'."
+            },
+            "kind": "attribute",
+            "labels": [
+              "module"
+            ],
+            "members": {},
+            "name": "__package__",
+            "value": "'submodule_mkdocs_test.my_submodule'"
+          },
+          "__path__": {
+            "docstring": {
+              "endlineno": null,
+              "lineno": null,
+              "value": "Built-in mutable sequence.\n\nIf no argument is given, the constructor creates a new empty list.\nThe argument must be an iterable if specified."
+            },
+            "kind": "attribute",
+            "labels": [
+              "module"
+            ],
+            "members": {},
+            "name": "__path__",
+            "value": "['C:\\\\Users\\\\daniel\\\\projects\\\\submodule_mkdocs_test\\\\python\\\\submodule_mkdocs_test\\\\my_submodule']"
+          },
+          "submodule_mkdocs_test": {
+            "kind": "alias",
+            "name": "submodule_mkdocs_test",
+            "target_path": "submodule_mkdocs_test"
+          }
+        },
+        "name": "my_submodule"
+      }
+    },
+    "name": "submodule_mkdocs_test"
+  }
+}
